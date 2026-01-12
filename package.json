@@ -1,0 +1,21 @@
+{
+  "name": "codespace-deep",
+  "version": "1.0.0",
+  "description": "An system totally designed in github codespace",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yWarsame/codespace-deep.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yWarsame/codespace-deep/issues"
+  },
+  "homepage": "https://github.com/yWarsame/codespace-deep#readme"
+}
